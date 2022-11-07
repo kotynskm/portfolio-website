@@ -24,6 +24,10 @@ html {
   margin-left: 50px;
 }
 
+.container-fluid {
+  margin-top: 20px;
+}
+
 .img-container {
   margin-top: 10px;
 }
