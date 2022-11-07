@@ -85,7 +85,7 @@ a:hover {
 .intro-contact {
   display: flex;
   justify-content: space-evenly;
-  margin: 30px 30px;
+  margin: 10px;
 }
 
 .intro-contact a {
