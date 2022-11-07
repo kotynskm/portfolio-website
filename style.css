@@ -23,6 +23,9 @@ html {
   font-size: 35px;
 }
 
+.links a {
+  font-size: 15px;
+}
 .container {
   margin: 30px;
   margin-left: 50px;
