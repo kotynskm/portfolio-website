@@ -1,5 +1,4 @@
 body {
-  overflow-x: hidden;
   width: 100%;
 }
 
@@ -9,6 +8,7 @@ html {
   display: flex;
   flex-direction: column;
   background-color: #bbebfc;
+  overflow-x: hidden;
 }
 
 .title-words,
