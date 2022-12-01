@@ -17,6 +17,17 @@ html {
   text-align: center;
 }
 
+.about,
+.prof {
+  background-color: #ffffff;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.prof {
+  padding-top: 10px;
+}
+
 .title-words,
 .horses {
   font-family: "Shadows Into Light", cursive;
@@ -70,9 +81,7 @@ a:hover {
   color: white;
 }
 
-.profile,
-.images img {
-  border: white solid 3px;
+.profile {
   max-width: 100%;
 }
 
@@ -102,8 +111,9 @@ a:hover {
 }
 
 .intro-contact a {
-  color: white;
+  color: #ffbfa0;
   font-size: 50px;
+  margin: 10px;
 }
 
 .swiper {
